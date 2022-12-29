@@ -1,0 +1,1 @@
+# QR-scanner-api-documentation
